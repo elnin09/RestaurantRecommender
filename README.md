@@ -49,11 +49,13 @@ This is predefined function of sklearn.neighbors. We are basically using this cl
 We already have trained model cuisines.pkl and reviews.pkl
 In order to run the queries on already trained model, user needs to execute following command in the terminal.
 
+``` shell
 python3 main.py
 
-In order to train the models and then run the queries, execute following python commands
+#In order to train the models and then run the queries, execute following python commands
 
 python3 recommendercuisine.py
 python3 recommender.py
+```
 
 
